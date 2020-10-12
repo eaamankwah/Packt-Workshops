@@ -8,4 +8,4 @@ You can see the [SQL Workshop Certificate](https://github.com/eaamankwah/Certifi
 
 You can see the [The Data visualization Workshop Certificate](https://github.com/eaamankwah/Certificates/blob/main/Packt-data-visualization-workshop-cert.pdf)
 
-You can see the [The Data visualization Workshop Certificate](https://github.com/eaamankwah/Certificates/blob/main/Packt_supervized-learning-certificate.pdf)
+You can see the [The Supervised Learning Workshop Certificate](https://github.com/eaamankwah/Certificates/blob/main/Packt_supervized-learning-certificate.pdf)
